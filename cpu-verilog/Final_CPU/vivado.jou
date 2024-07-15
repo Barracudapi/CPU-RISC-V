@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Jul 10 22:04:28 2024
+# Process ID: 3712
+# Current directory: D:/SUSTech/Year 2 Semester 2/CS202 - Computer Organization/Project/GitHub/cpu-verilog/Final_CPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17200 D:\SUSTech\Year 2 Semester 2\CS202 - Computer Organization\Project\GitHub\cpu-verilog\Final_CPU\Final_CPU.xpr
+# Log file: D:/SUSTech/Year 2 Semester 2/CS202 - Computer Organization/Project/GitHub/cpu-verilog/Final_CPU/vivado.log
+# Journal file: D:/SUSTech/Year 2 Semester 2/CS202 - Computer Organization/Project/GitHub/cpu-verilog/Final_CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/SUSTech/Year 2 Semester 2/CS202 - Computer Organization/Project/GitHub/cpu-verilog/Final_CPU/Final_CPU.xpr}
+update_compile_order -fileset sources_1
